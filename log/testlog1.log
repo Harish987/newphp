@@ -1,0 +1,171 @@
+2019-10-29 12:02:12,541 [main] INFO Loginpage - pass
+2019-10-29 12:06:20,465 [main] INFO Loginpage - pass
+2019-10-29 14:03:48,739 [main] INFO Loginpage - pass
+2019-10-29 14:24:08,018 [main] INFO Base - pass
+2019-10-29 14:25:12,373 [main] INFO Loginpage - pass
+2019-10-29 15:19:32,991 [main] INFO Flight_search - pass
+2019-10-29 15:20:50,247 [main] INFO Flight_search - pass
+2019-10-29 15:21:48,931 [main] INFO Flight_search - pass
+2019-10-29 15:26:55,892 [main] INFO Flight_search - pass
+2019-10-29 15:31:18,773 [main] INFO Flight_search - pass
+2019-10-29 16:05:53,655 [main] INFO Flight_search - pass
+2019-10-29 16:08:05,002 [main] INFO Flight_search - pass
+2019-10-29 16:37:06,515 [main] INFO Flight_search - pass
+2019-10-29 16:39:17,732 [main] INFO Flight_search - BGR to DEL
+2019-10-29 16:39:17,740 [main] INFO Flight_search - testcasepass
+2019-10-29 16:39:17,741 [main] INFO Flight_search - pass
+2019-10-29 16:47:40,956 [main] INFO Loginpage - Login
+2019-10-29 16:50:11,894 [main] INFO Loginpage - Login
+2019-10-30 11:34:34,023 [main] INFO PHP_Tour - Hotels Results
+2019-10-30 11:39:40,882 [main] INFO PHP_Tour - Hotels Results
+2019-10-30 11:46:55,157 [main] INFO Loginpage - Login
+2019-10-30 11:47:44,343 [main] INFO Loginpage - Login
+2019-10-30 11:49:02,630 [main] INFO RegistrationpageTest - Registered Successfully
+2019-10-30 11:49:04,747 [main] INFO RegistrationpageTest - Registered Successfully
+2019-10-30 12:13:10,902 [main] INFO PHP_Tour - Day Visit of Petra from Oman
+2019-10-30 12:18:19,988 [main] INFO RegistrationpageTest - Register
+2019-10-30 12:18:42,011 [main] INFO RegistrationpageTest - Register
+2019-10-30 12:19:46,120 [main] INFO RegistrationpageTest - Register
+2019-10-30 12:19:46,128 [main] INFO RegistrationpageTest - Registered Successfully
+2019-10-30 12:19:47,967 [main] INFO RegistrationpageTest - Register
+2019-10-30 12:19:47,969 [main] INFO RegistrationpageTest - Registered Successfully
+2019-10-30 12:24:55,568 [main] INFO Loginpage - Login
+2019-10-30 12:24:55,575 [main] INFO Loginpage - userable to login successfully
+2019-10-30 12:28:46,337 [main] INFO PHP_Tour - Hotels Results
+2019-10-30 12:29:47,172 [main] INFO PHP_Tour - Hotels Results
+2019-10-30 12:29:47,178 [main] INFO PHP_Tour - userable to see the hotel page
+2019-10-30 12:35:32,588 [main] INFO RegistrationpageTest - Register
+2019-10-30 12:35:32,596 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-30 12:35:34,395 [main] INFO RegistrationpageTest - Register
+2019-10-30 12:35:34,395 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-30 12:37:31,974 [main] INFO RegistrationpageTest - Register
+2019-10-30 12:37:31,983 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-30 12:37:33,861 [main] INFO RegistrationpageTest - Register
+2019-10-30 12:37:33,862 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-30 12:38:16,331 [main] INFO RegistrationpageTest - Register
+2019-10-30 12:38:16,340 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-30 12:43:52,283 [main] INFO RegistrationpageTest - Register
+2019-10-30 12:47:53,842 [main] INFO RegistrationpageTest - Register
+2019-10-30 12:47:53,853 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-30 12:47:55,655 [main] INFO RegistrationpageTest - Register
+2019-10-30 12:47:55,656 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-30 12:50:41,211 [main] INFO Loginpage - Login
+2019-10-30 12:50:41,219 [main] INFO Loginpage - userable to login successfully
+2019-10-30 12:52:01,884 [main] INFO Loginpage - Login
+2019-10-30 12:52:01,890 [main] INFO Loginpage - userable to login successfully
+2019-10-30 12:55:42,363 [main] INFO PHP_Tour - Day Visit of Petra from Oman
+2019-10-30 12:55:42,369 [main] INFO PHP_Tour - happy journey
+2019-10-30 13:00:03,460 [main] INFO Base - Day Visit of Petra from Oman
+2019-10-30 13:00:03,465 [main] INFO Base - happy journey
+2019-10-30 13:00:51,518 [main] INFO Base - Day Visit of Petra from Oman
+2019-10-30 13:00:51,526 [main] INFO Base - happy journey
+2019-10-30 13:01:41,685 [main] INFO Base - Day Visit of Petra from Oman
+2019-10-30 13:01:41,693 [main] INFO Base - happy journey
+2019-10-30 13:57:44,416 [main] INFO Hotel_search - Hotels Results
+2019-10-30 13:57:44,534 [main] INFO Hotel_search - userable to see the hotel page
+2019-10-30 13:58:11,758 [main] INFO PHP_Tour - Day Visit of Petra from Oman
+2019-10-30 13:58:11,765 [main] INFO PHP_Tour - happy journey
+2019-10-30 13:59:01,814 [main] INFO RegistrationpageTest - Register
+2019-10-30 13:59:01,822 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-30 14:00:06,302 [main] INFO Loginpage - Login
+2019-10-30 14:00:06,312 [main] INFO Loginpage - userable to login successfully
+2019-10-30 15:04:00,970 [main] INFO Hotel_search - Hotels Results
+2019-10-30 15:04:01,446 [main] INFO Hotel_search - userable to see the hotel page
+2019-10-30 15:07:43,153 [main] INFO Hotel_search - Hotels Results
+2019-10-30 15:07:43,159 [main] INFO Hotel_search - userable to see the hotel page
+2019-10-30 15:08:51,883 [main] INFO PHP_Tour - Day Visit of Petra from Oman
+2019-10-30 15:08:51,889 [main] INFO PHP_Tour - happy journey
+2019-10-30 15:11:47,385 [main] INFO Loginpage - Login
+2019-10-30 15:11:47,955 [main] INFO Loginpage - userable to login successfully
+2019-10-30 15:54:08,443 [main] INFO PHP_Transfer - Search Results
+2019-10-30 15:54:14,954 [main] INFO PHP_Transfer - Search Results
+2019-10-30 15:56:34,271 [main] INFO PHP_Transfer - Search Results
+2019-10-30 15:56:34,284 [main] INFO PHP_Transfer - book the car successfully
+2019-10-30 15:56:40,306 [main] INFO PHP_Transfer - Search Results
+2019-10-30 15:56:40,307 [main] INFO PHP_Transfer - book the car successfully
+2019-10-30 16:02:36,662 [main] INFO Hotel_search - Hotels Results
+2019-10-30 16:02:36,670 [main] INFO Hotel_search - userable to see the hotel page
+2019-10-30 16:03:15,014 [main] INFO PHP_Tour - Day Visit of Petra from Oman
+2019-10-30 16:03:15,023 [main] INFO PHP_Tour - happy journey
+2019-10-30 16:03:52,105 [main] INFO Loginpage - Login
+2019-10-30 16:03:52,117 [main] INFO Loginpage - userable to login successfully
+2019-10-30 16:05:01,958 [main] INFO RegistrationpageTest - Register
+2019-10-30 16:05:01,964 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-30 16:05:04,388 [main] INFO RegistrationpageTest - Register
+2019-10-30 16:05:04,391 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-30 16:08:07,092 [main] INFO Loginpage - Login
+2019-10-30 16:08:08,152 [main] INFO Loginpage - userable to login successfully
+2019-10-30 16:37:35,698 [main] INFO Loginpage - Login
+2019-10-30 16:37:37,098 [main] INFO Loginpage - userable to login successfully
+2019-10-30 16:37:49,349 [main] INFO RegistrationpageTest - Register
+2019-10-30 16:37:49,350 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-30 17:00:47,296 [main] INFO RegistrationpageTest - Register
+2019-10-30 17:00:48,355 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-30 17:00:51,042 [main] INFO RegistrationpageTest - Register
+2019-10-30 17:00:51,043 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-30 17:00:58,651 [main] INFO Loginpage - My Account
+2019-10-30 17:00:58,652 [main] INFO Loginpage - login fail
+2019-10-30 18:10:47,044 [main] INFO Hotel_search - Hotels Results
+2019-10-30 18:10:47,100 [main] INFO Hotel_search - userable to see the hotel page
+2019-10-30 18:11:21,062 [main] INFO PHP_Transfer - Search Results
+2019-10-30 18:11:21,068 [main] INFO PHP_Transfer - book the car successfully
+2019-10-30 18:11:27,228 [main] INFO PHP_Transfer - Search Results
+2019-10-30 18:11:27,340 [main] INFO PHP_Transfer - book the car successfully
+2019-10-31 08:59:53,471 [main] INFO PHP_Transfer - Search Results
+2019-10-31 08:59:53,557 [main] INFO PHP_Transfer - book the car successfully
+2019-10-31 09:00:00,205 [main] INFO PHP_Transfer - Search Results
+2019-10-31 09:00:00,207 [main] INFO PHP_Transfer - book the car successfully
+2019-10-31 09:13:53,895 [main] INFO RegistrationpageTest - Register
+2019-10-31 09:13:53,962 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-31 09:13:56,245 [main] INFO RegistrationpageTest - Register
+2019-10-31 09:13:56,246 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-31 09:14:25,185 [main] INFO Loginpage - Login
+2019-10-31 09:14:25,191 [main] INFO Loginpage - userable to login successfully
+2019-10-31 09:22:07,916 [main] INFO Hotel_search - Hotels Results
+2019-10-31 09:22:10,032 [main] INFO Hotel_search - userable to see the hotel page
+2019-10-31 09:22:42,716 [main] INFO Hotel_search - Hotels Results
+2019-10-31 09:22:42,717 [main] INFO Hotel_search - userable to see the hotel page
+2019-10-31 09:25:55,102 [main] INFO RegistrationpageTest - Register
+2019-10-31 09:25:58,340 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-31 09:26:42,324 [main] INFO RegistrationpageTest - Register
+2019-10-31 09:26:42,327 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-31 09:27:30,444 [main] INFO Loginpage - Login
+2019-10-31 09:27:30,446 [main] INFO Loginpage - userable to login successfully
+2019-10-31 09:28:17,452 [main] INFO Loginpage - Login
+2019-10-31 09:28:17,453 [main] INFO Loginpage - userable to login successfully
+2019-10-31 09:30:17,447 [main] INFO PHP_Tour - Day Visit of Petra from Oman
+2019-10-31 09:30:17,448 [main] INFO PHP_Tour - happy journey
+2019-10-31 09:30:37,773 [main] INFO PHP_Tour - Day Visit of Petra from Oman
+2019-10-31 09:30:37,775 [main] INFO PHP_Tour - happy journey
+2019-10-31 09:30:51,879 [main] INFO PHP_Transfer - Search Results
+2019-10-31 09:30:51,881 [main] INFO PHP_Transfer - book the car successfully
+2019-10-31 09:31:14,132 [main] INFO PHP_Transfer - Search Results
+2019-10-31 09:31:14,133 [main] INFO PHP_Transfer - book the car successfully
+2019-10-31 09:47:46,205 [main] INFO Loginpage - Login
+2019-10-31 09:47:46,214 [main] INFO Loginpage - userable to login successfully
+2019-10-31 09:49:21,536 [main] INFO Loginpage - Login
+2019-10-31 09:49:21,544 [main] INFO Loginpage - userable to login successfully
+2019-10-31 09:50:19,823 [main] INFO Loginpage - Login
+2019-10-31 09:50:19,831 [main] INFO Loginpage - userable to login successfully
+2019-10-31 10:38:58,541 [main] INFO PHP_Transfer - Search Results
+2019-10-31 10:38:58,776 [main] INFO PHP_Transfer - book the car successfully
+2019-10-31 10:39:10,561 [main] INFO RegistrationpageTest - Register
+2019-10-31 10:39:10,562 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-31 10:39:22,429 [main] INFO Loginpage - Login
+2019-10-31 10:39:22,432 [main] INFO Loginpage - userable to login successfully
+2019-10-31 10:39:39,828 [main] INFO PHP_Tour - Day Visit of Petra from Oman
+2019-10-31 10:39:39,831 [main] INFO PHP_Tour - happy journey
+2019-10-31 10:40:06,552 [main] INFO Hotel_search - Hotels Results
+2019-10-31 10:40:06,553 [main] INFO Hotel_search - userable to see the hotel page
+2019-10-31 11:11:53,502 [main] INFO RegistrationpageTest - Register
+2019-10-31 11:11:53,592 [main] INFO RegistrationpageTest - Userablr to Registered Successfully
+2019-10-31 11:12:04,894 [main] INFO Loginpage - Login
+2019-10-31 11:12:04,896 [main] INFO Loginpage - userable to login successfully
+2019-10-31 11:12:17,466 [main] INFO PHP_Transfer - Search Results
+2019-10-31 11:12:17,468 [main] INFO PHP_Transfer - book the car successfully
+2019-10-31 11:12:31,945 [main] INFO PHP_Tour - Day Visit of Petra from Oman
+2019-10-31 11:12:31,947 [main] INFO PHP_Tour - happy journey
+2019-10-31 11:12:52,654 [main] INFO Hotel_search - Hotels Results
+2019-10-31 11:12:52,655 [main] INFO Hotel_search - userable to see the hotel page
+2019-10-31 11:15:00,822 [main] INFO Loginpage - Login
+2019-10-31 11:15:00,830 [main] INFO Loginpage - userable to login successfully

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test">
+    <classes>
+      <class name="Twitt_Api.Post_twitter"/>
+      <class name="Twitt_Api.Username_get_twitter"/>
+      <class name="Twitt_Api.Bangaloreweather_Twitter"/>
+      <class name="Twitt_Api.Trending_Hashtag_Twitter"/>
+      <class name="Twitt_Api.Searchstatus"/>
+      <class name="Twitt_Api.TwitterStatus_enter"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test(failed)">
+    <classes>
+      <class name="Twitt_Api.Bangaloreweather_Twitter">
+        <methods>
+          <include name="base"/>
+        </methods>
+      </class> <!-- Twitt_Api.Bangaloreweather_Twitter -->
+      <class name="Twitt_Api.TwitterStatus_enter">
+        <methods>
+          <include name="start"/>
+        </methods>
+      </class> <!-- Twitt_Api.TwitterStatus_enter -->
+      <class name="Twitt_Api.Username_get_twitter">
+        <methods>
+          <include name="start"/>
+        </methods>
+      </class> <!-- Twitt_Api.Username_get_twitter -->
+      <class name="Twitt_Api.Searchstatus">
+        <methods>
+          <include name="start"/>
+        </methods>
+      </class> <!-- Twitt_Api.Searchstatus -->
+      <class name="Twitt_Api.Trending_Hashtag_Twitter">
+        <methods>
+          <include name="start"/>
+        </methods>
+      </class> <!-- Twitt_Api.Trending_Hashtag_Twitter -->
+      <class name="Twitt_Api.Post_twitter">
+        <methods>
+          <include name="get_Tweet"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- Twitt_Api.Post_twitter -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
